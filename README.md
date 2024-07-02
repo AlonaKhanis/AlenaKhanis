@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif">
 </p>
 
-<h4 align="center">My coding journey began with my first line of code: "Hello, World!"<br /> Did you know this iconic phrase, credited to computer scientist Brian Kernighan in 1972, was originally used in his book,<br /> "A Tutorial Introduction to the Language B", to demonstrate external variables</h4>
+<h4 align="center">My coding journey began with my first line of code: "Hello, World!"<br /> Did you know this iconic phrase, credited to computer scientist Brian Kernighan in 1972, was originally used in his book,<br /> "A Tutorial Introduction to the Language B", to demonstrate external variables.</h4>
 
 <h3 align="center">I'm a passionate coder who loves to explore, learn, and tackle challenges head-on. There's no task I can't handle, it's just a matter of time.</h3>
 
