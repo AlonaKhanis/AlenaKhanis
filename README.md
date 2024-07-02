@@ -25,7 +25,7 @@
 
 ### Connect with Me
 
-- LinkedIn: (https://www.linkedin.com/your-profile)
+- LinkedIn: [Alona Khanis LinkedIn](https://www.linkedin.com/in/alona-khanis-585a20302/)
 - Email: alen4ik245@gmail.com
 
 ---
