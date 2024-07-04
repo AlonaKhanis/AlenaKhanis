@@ -10,9 +10,9 @@
 
 ### Currently Learning
 
-- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** for data manipulation, and exploring into **Machine Learning**.
-
 ---
+
+- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** for data manipulation, and exploring **Machine Learning**.
 
 ---
 
