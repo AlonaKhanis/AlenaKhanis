@@ -8,6 +8,12 @@
 
 <h3 align="center">I'm a passionate coder who loves to explore, learn, and tackle challenges head-on. There's no task I can't handle, it's just a matter of time.</h3>
 
+### Currently Learning
+
+- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** for data manipulation, and exploring into **Machine Learning**.
+
+---
+
 ---
 
 ### About Me
@@ -17,11 +23,6 @@
 
 ---
 
-### Currently Learning
-
-- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** for data manipulation, and delving into **Machine Learning**.
-
----
 
 ### Connect with Me
 
