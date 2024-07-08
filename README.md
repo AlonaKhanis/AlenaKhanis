@@ -12,7 +12,7 @@
 
 ---
 
-- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** for data manipulation, and exploring **Machine Learning**.
+- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** and **Pandas** for data manipulation, and exploring **Machine Learning**.
 
 ---
 
