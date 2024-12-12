@@ -12,7 +12,7 @@
 
 ---
 
-- 🌱 I’m currently diving deeper into **Python**, exploring **NumPy** and **Pandas** for data manipulation, and exploring **Machine Learning**.
+- 🚀 I’m currently diving deeper into JavaScript, exploring frameworks like Three.js to build 3D websites and create immersive user experiences.
 
 ---
 
@@ -44,6 +44,9 @@
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-61DAFB?style=flat-square&logo=react&logoColor=white)
+
 
 #### Tools & Technologies
 
@@ -52,19 +55,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-blue?style=flat-square&logo=sqlite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alenakhanis&layout=compact&hide=html" alt="Top Languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alenakhanis&show_icons=true&line_height=27" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alenakhanis" alt="GitHub Streak">
-</p>
 
 ---
 
